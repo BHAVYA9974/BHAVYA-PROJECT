@@ -1,4 +1,9 @@
-# BHAVYA-PROJECT
+BHAVYA GURNANI
+CHARLES BHANDARI
+RAJVI BORICHA
+
+
+
 Stock Market Portfolio Analysis
 📊 Project Overview
 This project aims to analyze and optimize stock portfolios using various financial metrics and statistical techniques. The goal is to help investors make informed decisions by assessing risk, return, and diversification strategies.
