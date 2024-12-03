@@ -12,8 +12,12 @@ Sharpe ratio
 Visualize portfolio performance using charts and graphs.
 Optimize portfolios using Modern Portfolio Theory (MPT).
 Simulate portfolios using Monte Carlo simulations.
+
+
 🔧 Tools and Technologies
 Programming Language: Python
+
+
 Libraries:
 pandas for data manipulation
 numpy for numerical computations
